@@ -1,0 +1,50 @@
+W<!-- This is a static file -->
+<!-- served from your routes in server.js -->
+
+<!-- You might want to try something fancier: -->
+<!-- html/nunjucks docs: http://mozilla.github.io/nunjucks/ -->
+<!-- jade: http://jade-lang.com/ -->
+<!-- haml: http://haml.info/tutorial.html -->
+<!-- hbs(handlebars): http://handlebarsjs.com/expressions.html -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>StarMiaStar</title>
+    <meta name="acoolwebsiteaboutlife" content="A cool thing made with Gomix">
+    <link id="favicon" rel="icon" href="https://gomix.com/favicon-app.ico" type="image/x-icon">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="main.css" href="stylesheet">
+  </head>
+  <body>
+    <ol> purple is super cute 
+    </ol> 
+    <header>
+      <h1>
+        YAY YOU ARE COOL
+      </h1>
+    </header>
+    <scr></scr>
+    <img> <link rel="/https://giphy.com/gifs/recordingacademy-beyonce-grammys-l0HeklLIDXcXKSWQM">
+    <main>
+      <p class="bold">welcome sparkle</p>
+      <p>what makes you smile:</p>=
+      <form>
+        <input type="text" maxlength="100" placeholder="Stars">
+        <button type="submit">Submit</button>
+      </form>
+      <section class="shine">
+        <ul id="shine">
+        </ul>
+      </section>
+
+
+    <footer>
+      <a href="https://gomix.com">
+        Remix this in Gomix
+      </a>
+    </footer>
+
+    <!-- Your web-app is https, so your scripts need to be too -->
